@@ -1,7 +1,7 @@
 # TryHackMe Achievements.
 
 ### Profile Badge
-[Profile Badge](<script src="https://tryhackme.com/badge/562140"></script>)
+[Profile Badge](https://tryhackme-badges.s3.amazonaws.com/UMadBro7771.png)
 
 
 # Room Badges
