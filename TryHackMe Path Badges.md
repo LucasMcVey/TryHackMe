@@ -1,4 +1,4 @@
-# TryHackMe Achievements.
+# TryHackMe Path Badges.
 
 
 
