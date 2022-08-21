@@ -1,7 +1,7 @@
 # TryHackMe Achievements.
 
 ### Profile Badge
-https://tryhackme.com/badge/562140
+[Profile Badge](https://tryhackme.com/badge/562140)
 
 
 # Room Badges
